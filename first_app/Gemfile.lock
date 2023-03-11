@@ -10,7 +10,7 @@ GEM
       builder (~> 3.0.0)
       erubis (~> 2.7.0)
       journey (~> 1.0.1)
-      #rack (~> 1.4.0)
+     
       rack-cache (~> 1.2)
       rack-test (~> 0.6.1)
       sprockets (~> 2.1.2)
@@ -59,7 +59,7 @@ GEM
     rack-ssl (1.3.4)
       rack
     rack-test (0.6.3)
-      rack (>= 1.0)
+    
     rails (3.2.3)
       actionmailer (= 3.2.3)
       actionpack (= 3.2.3)
